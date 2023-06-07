@@ -1,0 +1,9 @@
+torch
+transformers==4.22.2
+numpy
+matplotlib
+rich
+sentencepiece
+sentence-transformers
+accelerate
+stable-baselines3
